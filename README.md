@@ -1,4 +1,4 @@
-It's online! chobi@test.com Feel free to sign up or alternatively you can login with credential user:test@test.com ,pw:test@123
+It's online! https://prismatic-fox-5f1e8c.netlify.app/ Feel free to sign up or alternatively you can login with credential user:test@test.com ,pw:test@123
 
 # 🚪 Introduction:
 
